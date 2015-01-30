@@ -1,0 +1,12 @@
+{
+  "name": "openstackci-ulimit",
+  "version": "0.0.1",
+  "author": "OpenStack CI",
+  "summary": "Puppet module for Ulimit",
+  "license": "Apache 2.0",
+  "source": "git://git.openstack.org/openstack-infra/puppet-ulimit.git",
+  "project_page": "http://ci.openstack.org/",
+  "issues_url": "https://storyboard.openstack.org/#!/project/791",
+  "dependencies": [
+  ]
+}
