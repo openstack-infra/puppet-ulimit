@@ -2,7 +2,7 @@
 #
 class ulimit {
 
-  include ulimit::params
+  include ::ulimit::params
 
   package { $::ulimit::params::pam_packages:
     ensure => present,
